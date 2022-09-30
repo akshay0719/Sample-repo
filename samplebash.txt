@@ -1,1 +1,2 @@
 Hi, This is a local message.
+Hi, This is a server message.
